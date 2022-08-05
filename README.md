@@ -19,7 +19,7 @@
     <li>HTML</li>
     <li>CSS</li>
     <li>Javascript</li>
-    <li><a herf="https://pokeapi.co/">PokéApi</a></li>
+    <li><a href="https://pokeapi.co/">PokéApi</a></li>
 </ul>
 
 ## Redes Sociais
